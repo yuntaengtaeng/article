@@ -11,3 +11,7 @@
   - https://tkdodo.eu/blog/practical-react-query
 - **중복 코드 개선**
   - https://velog.io/@gomjellie/The-Wet-Codebase
+- **프로젝트 디자인에 유용한 사이트 모음**
+  - [https://velog.io/@seunghw/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%94%94%EC%9E%90%EC%9D%B8%EC%BB%AC%EB%9F%ACCSS](https://velog.io/@seunghw/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%94%94%EC%9E%90%EC%9D%B8%EC%BB%AC%EB%9F%ACCSS)
+- **카카오엔터테인먼트 FE팀의 Tailwind CSS 도입**
+  - https://fe-developers.kakaoent.com/2022/221013-tailwind-and-design-system/ 
