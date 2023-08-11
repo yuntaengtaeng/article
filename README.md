@@ -17,5 +17,12 @@
   - https://fe-developers.kakaoent.com/2022/221013-tailwind-and-design-system/
 - **재그지그님의 정규표현식**
   - https://wormwlrm.github.io/2020/07/19/Regular-Expressions-Tutorial.html
+- **배달의민족의 지리 체계**
+  - https://techblog.woowahan.com/11238/
+- **카카오 페이(카페톤 슬랙봇 만들기)**
+  - https://tech.kakaopay.com/post/dictionary-bot/
+ 
+
+
 
 
