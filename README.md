@@ -21,6 +21,10 @@
   - https://techblog.woowahan.com/11238/
 - **카카오 페이(카페톤 슬랙봇 만들기)**
   - https://tech.kakaopay.com/post/dictionary-bot/
+- **개발자 커뮤니케이션 중요성**
+  - https://velog.io/@eddy_song/problem-solver
+- **초기 스타트업이 CTO/개발자 뽑기 어려운 이유와 해결**
+  - https://brunch.co.kr/@jennyjang93/55 
  
 
 
