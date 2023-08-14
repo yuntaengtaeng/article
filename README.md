@@ -24,7 +24,12 @@
 - **개발자 커뮤니케이션 중요성**
   - https://velog.io/@eddy_song/problem-solver
 - **초기 스타트업이 CTO/개발자 뽑기 어려운 이유와 해결**
-  - https://brunch.co.kr/@jennyjang93/55 
+  - https://brunch.co.kr/@jennyjang93/55
+- **리액트 네이티브로 13년 된 네이티브 앱 전환하기**
+  - https://ridicorp.com/story/react-native-ridibooks-ap/ 
+ 
+
+
  
 
 
