@@ -26,7 +26,9 @@
 - **초기 스타트업이 CTO/개발자 뽑기 어려운 이유와 해결**
   - https://brunch.co.kr/@jennyjang93/55
 - **리액트 네이티브로 13년 된 네이티브 앱 전환하기**
-  - https://ridicorp.com/story/react-native-ridibooks-ap/ 
+  - https://ridicorp.com/story/react-native-ridibooks-ap/
+- **ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)**
+  - https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/ 
  
 
 
