@@ -28,7 +28,9 @@
 - **리액트 네이티브로 13년 된 네이티브 앱 전환하기**
   - https://ridicorp.com/story/react-native-ridibooks-ap/
 - **ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)**
-  - https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/ 
+  - https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/
+- **Toss 선언적인 코드 작성하기**
+  - https://toss.tech/article/frontend-declarative-code 
  
 
 
