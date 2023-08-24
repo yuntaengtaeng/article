@@ -30,12 +30,6 @@
 - **ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기)**
   - https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/
 - **Toss 선언적인 코드 작성하기**
-  - https://toss.tech/article/frontend-declarative-code 
- 
-
-
- 
-
-
-
-
+  - https://toss.tech/article/frontend-declarative-code
+- **합성 컴포넌트로 재사용성 극대화하기**
+  - https://fe-developers.kakaoent.com/2022/220731-composition-component/
