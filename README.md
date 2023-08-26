@@ -33,3 +33,5 @@
   - https://toss.tech/article/frontend-declarative-code
 - **합성 컴포넌트로 재사용성 극대화하기**
   - https://fe-developers.kakaoent.com/2022/220731-composition-component/
+- **마켓컬리 뷰티 필터를 개발하며 얻은 새로운 경험**
+  - https://helloworld.kurly.com/blog/2022-5th-tech-meetup-web-frontend/
