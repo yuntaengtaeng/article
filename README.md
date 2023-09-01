@@ -37,3 +37,5 @@
   - https://helloworld.kurly.com/blog/2022-5th-tech-meetup-web-frontend/
 - **쏘카 싱글벙글 회원 서비스 성능 튜닝기**
   - https://tech.socarcorp.kr/dev/2023/07/22/member-service-performance-tuning-01.html
+- **리디 API 문서화, TS 타입만 있으면 해결! – Tspec**
+  - https://ridicorp.com/story/tspec-api-documentation/
