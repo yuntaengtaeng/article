@@ -39,3 +39,5 @@
   - https://tech.socarcorp.kr/dev/2023/07/22/member-service-performance-tuning-01.html
 - **리디 API 문서화, TS 타입만 있으면 해결! – Tspec**
   - https://ridicorp.com/story/tspec-api-documentation/
+- **다나와의 상품 데이터 여정**
+  - https://danawalab.github.io/common/2023/08/30/Danawa-Data.html
