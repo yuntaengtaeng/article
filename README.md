@@ -41,3 +41,5 @@
   - https://ridicorp.com/story/tspec-api-documentation/
 - **다나와의 상품 데이터 여정**
   - https://danawalab.github.io/common/2023/08/30/Danawa-Data.html
+- **여기어때 맨땅에 UX 헤딩하기**
+  - https://techblog.gccompany.co.kr/%EB%A7%A8%EB%95%85%EC%97%90-ux-%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0-683d671e9b2e
