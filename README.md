@@ -45,6 +45,9 @@
   - https://techblog.gccompany.co.kr/%EB%A7%A8%EB%95%85%EC%97%90-ux-%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0-683d671e9b2e
 - **Toss 가입 과정 개선**
   - https://toss.tech/article/signup
- 
+- **여기어떄 사수 없이 일하는 어려움 | 혼자서도 잘해요**
+  - https://techblog.gccompany.co.kr/%EC%82%AC%EC%88%98-%EC%97%86%EC%9D%B4-%EC%9D%BC%ED%95%98%EB%8A%94-%EC%96%B4%EB%A0%A4%EC%9B%80-feat-%ED%98%BC%EC%9E%90%EC%84%9C%EB%8F%84-%EC%9E%98%ED%95%B4%EC%9A%94-e305120a4fab
+- **Toss 인터렉션 꼭 넣어야 해요?**
+  - https://toss.tech/article/interaction
 
 
