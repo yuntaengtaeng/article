@@ -49,5 +49,10 @@
   - https://techblog.gccompany.co.kr/%EC%82%AC%EC%88%98-%EC%97%86%EC%9D%B4-%EC%9D%BC%ED%95%98%EB%8A%94-%EC%96%B4%EB%A0%A4%EC%9B%80-feat-%ED%98%BC%EC%9E%90%EC%84%9C%EB%8F%84-%EC%9E%98%ED%95%B4%EC%9A%94-e305120a4fab
 - **Toss 인터렉션 꼭 넣어야 해요?**
   - https://toss.tech/article/interaction
+- **컬리 컬리로그팀이 직접 고객을 만나고 리서치를 진행한 이야기: 컬리 푸드 페스타에서**
+  - https://helloworld.kurly.com/blog/kurlylog-user-research-in-kurly-food-festa-2023/
+ 
+
+
 
 
