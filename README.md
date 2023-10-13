@@ -51,6 +51,8 @@
   - https://toss.tech/article/interaction
 - **컬리 컬리로그팀이 직접 고객을 만나고 리서치를 진행한 이야기: 컬리 푸드 페스타에서**
   - https://helloworld.kurly.com/blog/kurlylog-user-research-in-kurly-food-festa-2023/
+- **우아한 형제들 레퍼런스 없이 000 만들기, 아이디어는 어디에서 왔을까?**
+  - https://techblog.woowahan.com/14107/
  
 
 
