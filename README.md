@@ -53,6 +53,8 @@
   - https://helloworld.kurly.com/blog/kurlylog-user-research-in-kurly-food-festa-2023/
 - **우아한 형제들 레퍼런스 없이 000 만들기, 아이디어는 어디에서 왔을까?**
   - https://techblog.woowahan.com/14107/
+- **우아한 형제들 “일단 백로그에 넣어두고 여유 있을 때 보는 걸로 할까요?” : 백로그를 백로그로 두지 않는 법**
+  - https://techblog.woowahan.com/14484/
  
 
 
