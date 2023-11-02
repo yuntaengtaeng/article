@@ -55,8 +55,5 @@
   - https://techblog.woowahan.com/14107/
 - **우아한 형제들 “일단 백로그에 넣어두고 여유 있을 때 보는 걸로 할까요?” : 백로그를 백로그로 두지 않는 법**
   - https://techblog.woowahan.com/14484/
- 
-
-
-
-
+- **재그지그 그 많은 OTT 콘텐츠는 어떻게 웹에서 재생될 수 있을까**
+  - https://wormwlrm.github.io/2023/03/05/DRM-Contents-on-Web.html
