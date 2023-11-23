@@ -57,3 +57,5 @@
   - https://techblog.woowahan.com/14484/
 - **재그지그 그 많은 OTT 콘텐츠는 어떻게 웹에서 재생될 수 있을까**
   - https://wormwlrm.github.io/2023/03/05/DRM-Contents-on-Web.html
+- **라인 너, 블로그 저자가 돼라! 블로그 스터디 운영 후기**
+  - https://techblog.lycorp.co.jp/ko/how-to-run-a-blog-study-in-line-plus
