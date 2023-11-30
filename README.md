@@ -59,3 +59,5 @@
   - https://wormwlrm.github.io/2023/03/05/DRM-Contents-on-Web.html
 - **라인 너, 블로그 저자가 돼라! 블로그 스터디 운영 후기**
   - https://techblog.lycorp.co.jp/ko/how-to-run-a-blog-study-in-line-plus
+- **요기요 데이터가 없을 때 200인가 404인가?**
+  - https://techblog.yogiyo.co.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%97%86%EC%9D%84-%EB%95%8C-200%EC%9D%B8%EA%B0%80-404%EC%9D%B8%EA%B0%80-f1c8c39ca9df
