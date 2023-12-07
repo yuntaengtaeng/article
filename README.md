@@ -61,3 +61,5 @@
   - https://techblog.lycorp.co.jp/ko/how-to-run-a-blog-study-in-line-plus
 - **요기요 데이터가 없을 때 200인가 404인가?**
   - https://techblog.yogiyo.co.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%97%86%EC%9D%84-%EB%95%8C-200%EC%9D%B8%EA%B0%80-404%EC%9D%B8%EA%B0%80-f1c8c39ca9df
+- **테이블링 리뷰기반 맛집 추천 서비스 만들기 with GPT-4**
+  - https://techblog.tabling.co.kr/%EB%A6%AC%EB%B7%B0%EA%B8%B0%EB%B0%98-%EB%A7%9B%EC%A7%91-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-with-gpt-4-7adce8811f1c
