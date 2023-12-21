@@ -65,3 +65,5 @@
   - https://techblog.tabling.co.kr/%EB%A6%AC%EB%B7%B0%EA%B8%B0%EB%B0%98-%EB%A7%9B%EC%A7%91-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-with-gpt-4-7adce8811f1c
 - **재그지그 육각형 개발자**
   - https://wormwlrm.github.io/2023/08/13/Hexagonal-Developer.html
+- **카카오페이 FE 리더가 되어버린 나, 이대로 괜찮은가?: 시니어 개발자인 내가 주니어 매니저가 되어 버린 건에 대하여**
+  - https://tech.kakaopay.com/post/paytalks-with-krew-fe/
