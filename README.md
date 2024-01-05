@@ -67,3 +67,5 @@
   - https://wormwlrm.github.io/2023/08/13/Hexagonal-Developer.html
 - **카카오페이 FE 리더가 되어버린 나, 이대로 괜찮은가?: 시니어 개발자인 내가 주니어 매니저가 되어 버린 건에 대하여**
   - https://tech.kakaopay.com/post/paytalks-with-krew-fe/
+- **우아한 형제들 결제는 계속된다: 결제 담당자가 장애에 대응하는 방법**
+  - https://techblog.woowahan.com/15236/
