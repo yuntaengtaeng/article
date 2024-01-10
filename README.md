@@ -69,3 +69,9 @@
   - https://tech.kakaopay.com/post/paytalks-with-krew-fe/
 - **우아한 형제들 결제는 계속된다: 결제 담당자가 장애에 대응하는 방법**
   - https://techblog.woowahan.com/15236/
+- **토스 브라우저용 번들링 플러그인, 직접 만들었어요**
+  - https://toss.tech/article/engineering-note-6
+- **카카오 OROR Forge: Figma to Code 도구 제작기 (1) 디자인을 코드로 만들어보자!**
+  - https://tech.kakao.com/2024/01/09/ororforge-1/
+- **카카오 OROR Forge: Figma to Code 도구 제작기 (2) 실전용으로 만들기**
+  - https://tech.kakao.com/2024/01/09/ororforge-2/
