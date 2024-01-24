@@ -75,3 +75,5 @@
   - https://tech.kakao.com/2024/01/09/ororforge-1/
 - **카카오 OROR Forge: Figma to Code 도구 제작기 (2) 실전용으로 만들기**
   - https://tech.kakao.com/2024/01/09/ororforge-2/
+- **우아한 형제들 고르곤졸라는 되지만 고르곤 졸라는 안 돼! 배달의민족에서 금칙어를 관리하는 방법**
+  - https://techblog.woowahan.com/15764/
