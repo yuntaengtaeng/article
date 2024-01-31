@@ -77,3 +77,7 @@
   - https://tech.kakao.com/2024/01/09/ororforge-2/
 - **우아한 형제들 고르곤졸라는 되지만 고르곤 졸라는 안 돼! 배달의민족에서 금칙어를 관리하는 방법**
   - https://techblog.woowahan.com/15764/
+- **리디 리디와 함께하는 CRM 여정**
+  - https://ridicorp.com/story/crm-braze-test/
+- **카카오 엔터테이먼트 마법소녀 이세계 아이돌 웹툰 런칭! BFF 장애 대응기**
+  - https://fe-developers.kakaoent.com/2023/230925-bff-trouble-shooting/
